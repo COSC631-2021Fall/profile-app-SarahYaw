@@ -1,14 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import {header, education, skills, projects, prevWork} from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <header />
   </React.StrictMode>,
   document.getElementById('root')
+);
+ReactDOM.render(
+  <React.StrictMode>
+    <education />
+  </React.StrictMode>,
+  document.getElementById('body')
 );
 
 // If you want to start measuring performance in your app, pass a function
