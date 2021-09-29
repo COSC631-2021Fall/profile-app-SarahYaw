@@ -4,7 +4,7 @@ import picture from './Sarah.png';
 function App() {
   const subtitle = {
     color: "#053402",
-    backgroundColor: "white",
+    backgroundColor: "#F6F9FF",
   };
   return (
     <div className="App">
