@@ -46,7 +46,7 @@ import './App.css';
                 <tr><td>Eastern Michigan University</td><td>Ypsilanti, MI</td><td>Graduate Assistant</td><td>September, 2020 to Present</td></tr>
                 <tr><td>Eastern Michigan University</td><td>Ypsilanti, MI</td><td>Teaching Assistant</td><td>January, 2020 to April, 2020</td></tr>
                 <tr><td>The Honors College at EMU</td><td>Ypsilanti, MI</td><td>Graphic Design Student Fellow</td><td>September, 2017 to April, 2020</td></tr>
-            </table>
+            </table><br/>
         </div>
     </>
     );
